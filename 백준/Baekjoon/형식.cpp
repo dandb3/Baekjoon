@@ -7,6 +7,5 @@ using ll = long long;
 int main() {
 	FASTIO;
 
-
 	return 0;
 }

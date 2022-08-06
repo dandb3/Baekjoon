@@ -18,7 +18,28 @@
     <ClCompile Include="12015.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2568.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14003.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="형식.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1007.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12852.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16724.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="엽서이벤트.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1644.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
